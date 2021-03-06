@@ -12,6 +12,7 @@ public class Istanceof {
 		result1 = i1 instanceof Istanceof;
 		System.out.println(result1);
 		System.out.println(result);
+		System.out.println(result1 + result);
 	}
 
 }
